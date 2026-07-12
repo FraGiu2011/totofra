@@ -1,0 +1,11 @@
+{
+    "football_data_api_key": "4b477169b3d04f57a3d33a78e5256f51",
+    "scheduler_time": "08:00",
+    "log_level": "INFO",
+    "output_folder": "output",
+    "tipster_sources": [
+        "PredictZ",
+        "FootballDataOdds"
+    ],
+    "competitions": ["SA", "PL", "CL"]
+}
