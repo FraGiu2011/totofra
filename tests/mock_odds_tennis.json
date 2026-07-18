@@ -1,0 +1,30 @@
+[
+    {
+        "bookmakers": [
+            {
+                "markets": [
+                    {
+                        "outcomes": [
+                            {"name": "Novak Djokovic", "price": 1.45},
+                            {"name": "Jannik Sinner", "price": 2.70}
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bookmakers": [
+            {
+                "markets": [
+                    {
+                        "outcomes": [
+                            {"name": "Carlos Alcaraz", "price": 1.60},
+                            {"name": "Daniil Medvedev", "price": 2.30}
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
