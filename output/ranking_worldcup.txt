@@ -1,0 +1,218 @@
+=== RANKING MONDIALE ===
+
+1) Brazil
+   Attack Home:  1.28
+   Defense Home: 0.8
+   Attack Away:  1.2
+   Defense Away: 0.9
+   Strength:     0.780
+
+2) England
+   Attack Home:  1.2
+   Defense Home: 0.75
+   Attack Away:  1.1
+   Defense Away: 0.9
+   Strength:     0.650
+
+3) Argentina
+   Attack Home:  1.25
+   Defense Home: 0.85
+   Attack Away:  1.15
+   Defense Away: 0.95
+   Strength:     0.600
+
+4) France
+   Attack Home:  1.3
+   Defense Home: 0.9
+   Attack Away:  1.2
+   Defense Away: 1.0
+   Strength:     0.600
+
+5) Portugal
+   Attack Home:  1.18
+   Defense Home: 0.9
+   Attack Away:  1.1
+   Defense Away: 1.0
+   Strength:     0.380
+
+6) Spain
+   Attack Home:  1.22
+   Defense Home: 0.95
+   Attack Away:  1.15
+   Defense Away: 1.05
+   Strength:     0.370
+
+7) Netherlands
+   Attack Home:  1.15
+   Defense Home: 0.9
+   Attack Away:  1.1
+   Defense Away: 1.0
+   Strength:     0.350
+
+8) Morocco
+   Attack Home:  1.0
+   Defense Home: 0.85
+   Attack Away:  0.95
+   Defense Away: 0.9
+   Strength:     0.200
+
+9) Germany
+   Attack Home:  1.18
+   Defense Home: 1.05
+   Attack Away:  1.1
+   Defense Away: 1.1
+   Strength:     0.130
+
+10) Croatia
+   Attack Home:  1.05
+   Defense Home: 0.95
+   Attack Away:  1.0
+   Defense Away: 1.0
+   Strength:     0.100
+
+11) Ecuador
+   Attack Home:  1.05
+   Defense Home: 0.95
+   Attack Away:  1.0
+   Defense Away: 1.0
+   Strength:     0.100
+
+12) Japan
+   Attack Home:  1.05
+   Defense Home: 1.0
+   Attack Away:  1.0
+   Defense Away: 1.05
+   Strength:     0.000
+
+13) Usa
+   Attack Home:  1.0
+   Defense Home: 1.0
+   Attack Away:  0.95
+   Defense Away: 1.05
+   Strength:     -0.100
+
+14) Uruguay
+   Attack Home:  0.95
+   Defense Home: 0.95
+   Attack Away:  0.9
+   Defense Away: 1.0
+   Strength:     -0.100
+
+15) Belgium
+   Attack Home:  1.0
+   Defense Home: 1.0
+   Attack Away:  0.95
+   Defense Away: 1.05
+   Strength:     -0.100
+
+16) Senegal
+   Attack Home:  1.05
+   Defense Home: 1.05
+   Attack Away:  1.0
+   Defense Away: 1.1
+   Strength:     -0.100
+
+17) Denmark
+   Attack Home:  0.9
+   Defense Home: 0.95
+   Attack Away:  0.85
+   Defense Away: 1.0
+   Strength:     -0.200
+
+18) Tunisia
+   Attack Home:  0.9
+   Defense Home: 1.0
+   Attack Away:  0.85
+   Defense Away: 1.05
+   Strength:     -0.300
+
+19) South Korea
+   Attack Home:  1.0
+   Defense Home: 1.1
+   Attack Away:  0.95
+   Defense Away: 1.15
+   Strength:     -0.300
+
+20) Switzerland
+   Attack Home:  1.0
+   Defense Home: 1.1
+   Attack Away:  0.95
+   Defense Away: 1.15
+   Strength:     -0.300
+
+21) Poland
+   Attack Home:  0.95
+   Defense Home: 1.05
+   Attack Away:  0.9
+   Defense Away: 1.1
+   Strength:     -0.300
+
+22) Cameroon
+   Attack Home:  1.0
+   Defense Home: 1.15
+   Attack Away:  0.95
+   Defense Away: 1.2
+   Strength:     -0.400
+
+23) Australia
+   Attack Home:  0.95
+   Defense Home: 1.1
+   Attack Away:  0.9
+   Defense Away: 1.15
+   Strength:     -0.400
+
+24) Mexico
+   Attack Home:  0.95
+   Defense Home: 1.1
+   Attack Away:  0.9
+   Defense Away: 1.15
+   Strength:     -0.400
+
+25) Serbia
+   Attack Home:  1.05
+   Defense Home: 1.2
+   Attack Away:  1.0
+   Defense Away: 1.25
+   Strength:     -0.400
+
+26) Ghana
+   Attack Home:  1.0
+   Defense Home: 1.2
+   Attack Away:  0.95
+   Defense Away: 1.25
+   Strength:     -0.500
+
+27) Wales
+   Attack Home:  0.9
+   Defense Home: 1.2
+   Attack Away:  0.85
+   Defense Away: 1.25
+   Strength:     -0.700
+
+28) Saudi Arabia
+   Attack Home:  0.9
+   Defense Home: 1.25
+   Attack Away:  0.85
+   Defense Away: 1.3
+   Strength:     -0.800
+
+29) Canada
+   Attack Home:  0.95
+   Defense Home: 1.4
+   Attack Away:  0.9
+   Defense Away: 1.45
+   Strength:     -1.000
+
+30) Iran
+   Attack Home:  0.95
+   Defense Home: 1.4
+   Attack Away:  0.9
+   Defense Away: 1.45
+   Strength:     -1.000
+
+31) Qatar
+   Attack Home:  0.8
+   Defense Home: 1.5
+   Attack Away:  0.75
+   Defense Away: 1.55
+   Strength:     -1.500

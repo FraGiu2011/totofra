@@ -1,0 +1,54 @@
+
+[DEBUG] Squadre nel CSV dopo normalizzazione:
+['atalanta', 'bologna', 'cagliari', 'empoli', 'fiorentina', 'frosinone', 'genoa', 'hellas', 'inter', 'juventus', 'lazio', 'lecce', 'milan', 'monza', 'napoli', 'roma', 'salernitana', 'sassuolo', 'torino', 'udinese']
+[FETCHER] Carico partite per competizione: SA
+[FETCHER]   Tentativo 1/3 per SA...
+[FETCHER]   SA: trovate 10 partite.
+[FETCHER] Carico partite per competizione: PL
+[FETCHER]   Tentativo 1/3 per PL...
+[FETCHER]   PL: trovate 10 partite.
+[FETCHER] Carico partite per competizione: CL
+[FETCHER]   Tentativo 1/3 per CL...
+[FETCHER]   CL: trovate 0 partite.
+[FETCHER] Totale partite trovate: 20
+[DEBUG] Match: AS Roma vs AC Pisa 1909 -> roma vs pisa
+[DEBUG] L_home=1.3333333333333333, L_away=1.0
+[DEBUG] Match: Cagliari Calcio vs US Cremonese -> cagliari vs cremonese
+[DEBUG] L_home=1.3333333333333333, L_away=2.1666666666666665
+[DEBUG] Match: Torino FC vs Hellas Verona FC -> torino vs hellas
+[DEBUG] L_home=0.3865248226950354, L_away=0.2632850241545894
+[DEBUG] Match: AC Milan vs Udinese Calcio -> milan vs udinese
+[DEBUG] L_home=1.3914893617021278, L_away=0.421256038647343
+[DEBUG] Match: Atalanta BC vs Juventus FC -> atalanta vs juventus
+[DEBUG] L_home=1.0601823708206686, L_away=0.7221532091097308
+[DEBUG] Match: Genoa CFC vs US Sassuolo Calcio -> genoa vs sassuolo
+[DEBUG] L_home=2.3620961386918835, L_away=1.9746376811594204
+[DEBUG] Match: Parma Calcio 1913 vs SSC Napoli -> parma vs napoli
+[DEBUG] L_home=1.0, L_away=2.25
+[DEBUG] Match: Bologna FC 1909 vs US Lecce -> bologna vs lecce
+[DEBUG] L_home=1.2884160756501182, L_away=0.39492753623188404
+[DEBUG] Match: Como 1907 vs FC Internazionale Milano -> como vs inter
+[DEBUG] L_home=0.16666666666666666, L_away=2.1666666666666665
+[DEBUG] Match: ACF Fiorentina vs SS Lazio -> fiorentina vs ss
+[DEBUG] L_home=1.5, L_away=1.25
+[DEBUG] Match: West Ham United FC vs Wolverhampton Wanderers FC -> west vs wolves
+[DEBUG] L_home=1.2935779816513762, L_away=1.2660550458715596
+[DEBUG] Match: Arsenal FC vs AFC Bournemouth -> arsenal vs afc
+[DEBUG] L_home=1.2935779816513762, L_away=1.2660550458715596
+[DEBUG] Match: Brentford FC vs Everton FC -> brentford vs everton
+[DEBUG] L_home=1.2935779816513762, L_away=1.2660550458715596
+[DEBUG] Match: Burnley FC vs Brighton & Hove Albion FC -> burnley vs brighton
+[DEBUG] L_home=1.2935779816513762, L_away=1.2660550458715596
+[DEBUG] Match: Liverpool FC vs Fulham FC -> liverpool vs fulham
+[DEBUG] L_home=1.2935779816513762, L_away=1.2660550458715596
+[DEBUG] Match: Sunderland AFC vs Tottenham Hotspur FC -> sunderland vs tottenham
+[DEBUG] L_home=1.2935779816513762, L_away=1.2660550458715596
+[DEBUG] Match: Crystal Palace FC vs Newcastle United FC -> crystal vs newcastle
+[DEBUG] L_home=1.2935779816513762, L_away=1.2660550458715596
+[DEBUG] Match: Nottingham Forest FC vs Aston Villa FC -> nottingham vs aston
+[DEBUG] L_home=1.2935779816513762, L_away=1.2660550458715596
+[DEBUG] Match: Chelsea FC vs Manchester City FC -> chelsea vs manchester city
+[DEBUG] L_home=1.2935779816513762, L_away=1.2660550458715596
+[DEBUG] Match: Manchester United FC vs Leeds United FC -> manchester vs leeds
+[DEBUG] L_home=1.2935779816513762, L_away=1.2660550458715596
+[OUTPUT] Salvato in output\matchday_32.json

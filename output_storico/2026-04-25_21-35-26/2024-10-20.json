@@ -1,0 +1,79 @@
+[
+    {
+        "match": "Empoli FC - SSC Napoli",
+        "model": {
+            "home": "Empoli FC",
+            "away": "SSC Napoli",
+            "p_home": 0.0,
+            "p_draw": 0.01581590609561045,
+            "p_away": 0.8576669964127343
+        },
+        "tipsters": []
+    },
+    {
+        "match": "US Lecce - ACF Fiorentina",
+        "model": {
+            "home": "US Lecce",
+            "away": "ACF Fiorentina",
+            "p_home": 0.2542651844143782,
+            "p_draw": 0.2558443203087114,
+            "p_away": 0.48873096387112375
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Venezia FC - Atalanta BC",
+        "model": {
+            "home": "Venezia FC",
+            "away": "Atalanta BC",
+            "p_home": 0.23582990995578598,
+            "p_draw": 0.21603426981777582,
+            "p_away": 0.5432833376845405
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Cagliari Calcio - Torino FC",
+        "model": {
+            "home": "Cagliari Calcio",
+            "away": "Torino FC",
+            "p_home": 0.371526680911645,
+            "p_draw": 0.22780339635905728,
+            "p_away": 0.39714416586952594
+        },
+        "tipsters": []
+    },
+    {
+        "match": "AS Roma - FC Internazionale Milano",
+        "model": {
+            "home": "AS Roma",
+            "away": "FC Internazionale Milano",
+            "p_home": 0.03278211758690538,
+            "p_draw": 0.20022709206007644,
+            "p_away": 0.7650451800107543
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Wolverhampton Wanderers FC - Manchester City FC",
+        "model": {
+            "home": "Wolverhampton Wanderers FC",
+            "away": "Manchester City FC",
+            "p_home": 0.3729458789654991,
+            "p_draw": 0.26630861765412683,
+            "p_away": 0.36000840399831147
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Liverpool FC - Chelsea FC",
+        "model": {
+            "home": "Liverpool FC",
+            "away": "Chelsea FC",
+            "p_home": 0.3729458789654991,
+            "p_draw": 0.26630861765412683,
+            "p_away": 0.36000840399831147
+        },
+        "tipsters": []
+    }
+]

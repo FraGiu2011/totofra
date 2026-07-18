@@ -1,0 +1,11 @@
+home,away,prob_1,prob_x,prob_2,tipster_pick,tipster_confidence,totofra_score
+Torino FC,US Sassuolo Calcio,0.07,0.2,0.73,2,72,6
+Cagliari Calcio,Udinese Calcio,0.7,0.22,0.08,1,68,6
+SS Lazio,FC Internazionale Milano,0.46,0.28,0.26,X,55,4
+US Lecce,Juventus FC,0.45,0.3,0.25,2,70,3
+Hellas Verona FC,Como 1907,0.45,0.3,0.25,1,60,4
+ACF Fiorentina,Genoa CFC,0.5,0.28,0.22,1,58,5
+US Cremonese,AC Pisa 1909,0.45,0.3,0.25,1,62,4
+Parma Calcio 1913,AS Roma,0.45,0.3,0.25,2,65,3
+AC Milan,Atalanta BC,0.22,0.18,0.6,2,66,6
+SSC Napoli,Bologna FC 1909,0.84,0.11,0.05,1,75,7

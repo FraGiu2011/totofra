@@ -1,0 +1,124 @@
+{
+    "matches": [
+        {
+            "home": "Torino FC",
+            "away": "US Sassuolo Calcio",
+            "prob_1": 45,
+            "prob_x": 30,
+            "prob_2": 25,
+            "corner_factor": 0.0,
+            "tipster_pick": "N/D",
+            "tipster_confidence": 0,
+            "poisson_selected": 45,
+            "totofra_score": 30
+        },
+        {
+            "home": "Cagliari Calcio",
+            "away": "Udinese Calcio",
+            "prob_1": 45,
+            "prob_x": 30,
+            "prob_2": 25,
+            "corner_factor": 0.0,
+            "tipster_pick": "N/D",
+            "tipster_confidence": 0,
+            "poisson_selected": 45,
+            "totofra_score": 30
+        },
+        {
+            "home": "SS Lazio",
+            "away": "FC Internazionale Milano",
+            "prob_1": 45,
+            "prob_x": 30,
+            "prob_2": 25,
+            "corner_factor": 0.0,
+            "tipster_pick": "N/D",
+            "tipster_confidence": 0,
+            "poisson_selected": 45,
+            "totofra_score": 30
+        },
+        {
+            "home": "US Lecce",
+            "away": "Juventus FC",
+            "prob_1": 45,
+            "prob_x": 30,
+            "prob_2": 25,
+            "corner_factor": 0.0,
+            "tipster_pick": "N/D",
+            "tipster_confidence": 0,
+            "poisson_selected": 45,
+            "totofra_score": 30
+        },
+        {
+            "home": "Hellas Verona FC",
+            "away": "Como 1907",
+            "prob_1": 45,
+            "prob_x": 30,
+            "prob_2": 25,
+            "corner_factor": 0.0,
+            "tipster_pick": "N/D",
+            "tipster_confidence": 0,
+            "poisson_selected": 45,
+            "totofra_score": 30
+        },
+        {
+            "home": "ACF Fiorentina",
+            "away": "Genoa CFC",
+            "prob_1": 45,
+            "prob_x": 30,
+            "prob_2": 25,
+            "corner_factor": 0.0,
+            "tipster_pick": "N/D",
+            "tipster_confidence": 0,
+            "poisson_selected": 45,
+            "totofra_score": 30
+        },
+        {
+            "home": "US Cremonese",
+            "away": "AC Pisa 1909",
+            "prob_1": 45,
+            "prob_x": 30,
+            "prob_2": 25,
+            "corner_factor": 0.0,
+            "tipster_pick": "N/D",
+            "tipster_confidence": 0,
+            "poisson_selected": 45,
+            "totofra_score": 30
+        },
+        {
+            "home": "Parma Calcio 1913",
+            "away": "AS Roma",
+            "prob_1": 45,
+            "prob_x": 30,
+            "prob_2": 25,
+            "corner_factor": 0.0,
+            "tipster_pick": "N/D",
+            "tipster_confidence": 0,
+            "poisson_selected": 45,
+            "totofra_score": 30
+        },
+        {
+            "home": "AC Milan",
+            "away": "Atalanta BC",
+            "prob_1": 45,
+            "prob_x": 30,
+            "prob_2": 25,
+            "corner_factor": 0.0,
+            "tipster_pick": "N/D",
+            "tipster_confidence": 0,
+            "poisson_selected": 45,
+            "totofra_score": 30
+        },
+        {
+            "home": "SSC Napoli",
+            "away": "Bologna FC 1909",
+            "prob_1": 45,
+            "prob_x": 30,
+            "prob_2": 25,
+            "corner_factor": 0.0,
+            "tipster_pick": "N/D",
+            "tipster_confidence": 0,
+            "poisson_selected": 45,
+            "totofra_score": 30
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+[
+    {
+        "match": "AS Roma - AC Pisa 1909",
+        "model": {
+            "home": "AS Roma",
+            "away": "AC Pisa 1909",
+            "p_home": 0.44279717054819556,
+            "p_draw": 0.2763130738076521,
+            "p_away": 0.28033829563534307
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Cagliari Calcio - US Cremonese",
+        "model": {
+            "home": "Cagliari Calcio",
+            "away": "US Cremonese",
+            "p_home": 0.2303382412210623,
+            "p_draw": 0.20476962702209967,
+            "p_away": 0.5575308156649443
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Torino FC - Hellas Verona FC",
+        "model": {
+            "home": "Torino FC",
+            "away": "Hellas Verona FC",
+            "p_home": 0.25830244642148076,
+            "p_draw": 0.576649035721668,
+            "p_away": 0.1650483215025933
+        },
+        "tipsters": []
+    },
+    {
+        "match": "AC Milan - Udinese Calcio",
+        "model": {
+            "home": "AC Milan",
+            "away": "Udinese Calcio",
+            "p_home": 0.6144542747252191,
+            "p_draw": 0.2738387825528484,
+            "p_away": 0.11110594730167137
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Atalanta BC - Juventus FC",
+        "model": {
+            "home": "Atalanta BC",
+            "away": "Juventus FC",
+            "p_home": 0.43012417286123755,
+            "p_draw": 0.3239109139994769,
+            "p_away": 0.2458350923286949
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Genoa CFC - US Sassuolo Calcio",
+        "model": {
+            "home": "Genoa CFC",
+            "away": "US Sassuolo Calcio",
+            "p_home": 0.46341449492048353,
+            "p_draw": 0.19509910816707504,
+            "p_away": 0.32658830377867226
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Parma Calcio 1913 - SSC Napoli",
+        "model": {
+            "home": "Parma Calcio 1913",
+            "away": "SSC Napoli",
+            "p_home": 0.15487356066813698,
+            "p_draw": 0.18924840438189228,
+            "p_away": 0.6474234191429806
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Bologna FC 1909 - US Lecce",
+        "model": {
+            "home": "Bologna FC 1909",
+            "away": "US Lecce",
+            "p_home": 0.5934582765921076,
+            "p_draw": 0.2929931761727346,
+            "p_away": 0.11316548353185316
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Como 1907 - FC Internazionale Milano",
+        "model": {
+            "home": "Como 1907",
+            "away": "FC Internazionale Milano",
+            "p_home": 0.02086288177043588,
+            "p_draw": 0.1352806864781854,
+            "p_away": 0.8369601436481778
+        },
+        "tipsters": []
+    },
+    {
+        "match": "ACF Fiorentina - SS Lazio",
+        "model": {
+            "home": "ACF Fiorentina",
+            "away": "SS Lazio",
+            "p_home": 0.429491136700295,
+            "p_draw": 0.2531647209132875,
+            "p_away": 0.3160983184935882
+        },
+        "tipsters": []
+    },
+    {
+        "match": "West Ham United FC - Wolverhampton Wanderers FC",
+        "model": {
+            "home": "West Ham United FC",
+            "away": "Wolverhampton Wanderers FC",
+            "p_home": 0.3729458789654991,
+            "p_draw": 0.26630861765412683,
+            "p_away": 0.36000840399831147
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Arsenal FC - AFC Bournemouth",
+        "model": {
+            "home": "Arsenal FC",
+            "away": "AFC Bournemouth",
+            "p_home": 0.3729458789654991,
+            "p_draw": 0.26630861765412683,
+            "p_away": 0.36000840399831147
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Brentford FC - Everton FC",
+        "model": {
+            "home": "Brentford FC",
+            "away": "Everton FC",
+            "p_home": 0.3729458789654991,
+            "p_draw": 0.26630861765412683,
+            "p_away": 0.36000840399831147
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Burnley FC - Brighton & Hove Albion FC",
+        "model": {
+            "home": "Burnley FC",
+            "away": "Brighton & Hove Albion FC",
+            "p_home": 0.3729458789654991,
+            "p_draw": 0.26630861765412683,
+            "p_away": 0.36000840399831147
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Liverpool FC - Fulham FC",
+        "model": {
+            "home": "Liverpool FC",
+            "away": "Fulham FC",
+            "p_home": 0.3729458789654991,
+            "p_draw": 0.26630861765412683,
+            "p_away": 0.36000840399831147
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Sunderland AFC - Tottenham Hotspur FC",
+        "model": {
+            "home": "Sunderland AFC",
+            "away": "Tottenham Hotspur FC",
+            "p_home": 0.3729458789654991,
+            "p_draw": 0.26630861765412683,
+            "p_away": 0.36000840399831147
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Crystal Palace FC - Newcastle United FC",
+        "model": {
+            "home": "Crystal Palace FC",
+            "away": "Newcastle United FC",
+            "p_home": 0.3729458789654991,
+            "p_draw": 0.26630861765412683,
+            "p_away": 0.36000840399831147
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Nottingham Forest FC - Aston Villa FC",
+        "model": {
+            "home": "Nottingham Forest FC",
+            "away": "Aston Villa FC",
+            "p_home": 0.3729458789654991,
+            "p_draw": 0.26630861765412683,
+            "p_away": 0.36000840399831147
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Chelsea FC - Manchester City FC",
+        "model": {
+            "home": "Chelsea FC",
+            "away": "Manchester City FC",
+            "p_home": 0.3729458789654991,
+            "p_draw": 0.26630861765412683,
+            "p_away": 0.36000840399831147
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Manchester United FC - Leeds United FC",
+        "model": {
+            "home": "Manchester United FC",
+            "away": "Leeds United FC",
+            "p_home": 0.3729458789654991,
+            "p_draw": 0.26630861765412683,
+            "p_away": 0.36000840399831147
+        },
+        "tipsters": []
+    }
+]

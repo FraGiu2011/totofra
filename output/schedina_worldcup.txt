@@ -1,0 +1,11 @@
+=== SCHEDINA MONDIALE ===
+
+Argentina - France
+Prob: 1=0.293  X=0.185  2=0.455
+Quote: 1=2.4  X=3.2  2=2.8
+Pick: 2
+
+Brazil - Croatia
+Prob: 1=0.480  X=0.214  2=0.284
+Quote: 1=1.7  X=3.5  2=4.8
+Pick: 1

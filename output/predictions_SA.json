@@ -1,0 +1,15 @@
+[
+    {
+        "home": "hellas verona",
+        "away": "roma",
+        "lambda_home": 2.734,
+        "lambda_away": 4.039,
+        "prob_1": 0.24,
+        "prob_x": 0.139,
+        "prob_2": 0.611,
+        "value_1": null,
+        "value_x": null,
+        "value_2": null,
+        "tipsters": {}
+    }
+]

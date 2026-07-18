@@ -1,0 +1,116 @@
+<html><head>
+<meta charset='UTF-8'>
+<title>Dashboard Tennis</title>
+
+    <style>
+        body { font-family: Arial; background: #f4f4f4; padding: 20px; }
+        h1 { color: #333; }
+        table { border-collapse: collapse; width: 100%; background: white; }
+        th, td { padding: 10px; border-bottom: 1px solid #ddd; text-align: left; }
+        th { background: #222; color: white; }
+        .container { max-width: 1000px; margin: auto; }
+        .section { margin-top: 40px; }
+        .chart-container { background: white; padding: 20px; border: 1px solid #ccc; }
+    </style>
+    
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+</head><body>
+<div class='container'>
+<h1>Dashboard Tennis</h1>
+<div class='section'>
+<h2>Ranking Elo</h2>
+<table>
+<tr><th>#</th><th>Giocatore</th><th>Elo</th></tr>
+<tr><td>1</td><td>novak djokovic</td><td>2085.0</td></tr>
+<tr><td>2</td><td>carlos alcaraz</td><td>2040.0</td></tr>
+<tr><td>3</td><td>jannik sinner</td><td>2025.0</td></tr>
+<tr><td>4</td><td>daniil medvedev</td><td>1980.0</td></tr>
+<tr><td>5</td><td>alexander zverev</td><td>1965.0</td></tr>
+<tr><td>6</td><td>rafael nadal</td><td>1950.0</td></tr>
+<tr><td>7</td><td>stefanos tsitsipas</td><td>1940.0</td></tr>
+<tr><td>8</td><td>casper ruud</td><td>1920.0</td></tr>
+<tr><td>9</td><td>andrey rublev</td><td>1910.0</td></tr>
+<tr><td>10</td><td>holger rune</td><td>1900.0</td></tr>
+<tr><td>11</td><td>hubert hurkacz</td><td>1895.0</td></tr>
+<tr><td>12</td><td>grigor dimitrov</td><td>1890.0</td></tr>
+<tr><td>13</td><td>taylor fritz</td><td>1880.0</td></tr>
+<tr><td>14</td><td>felix auger aliassime</td><td>1870.0</td></tr>
+<tr><td>15</td><td>ben shelton</td><td>1850.0</td></tr>
+<tr><td>16</td><td>frances tiafoe</td><td>1840.0</td></tr>
+<tr><td>17</td><td>dominic thiem</td><td>1820.0</td></tr>
+<tr><td>18</td><td>stan wawrinka</td><td>1780.0</td></tr>
+<tr><td>19</td><td>gael monfils</td><td>1760.0</td></tr>
+<tr><td>20</td><td>andy murray</td><td>1750.0</td></tr>
+</table>
+</div>
+<div class='section'>
+<h2>Grafico Elo (storico)</h2>
+<div class='chart-container'>
+<canvas id='eloChart'></canvas>
+</div>
+</div>
+<script>
+const eloHistory = {};
+
+    const ctx = document.getElementById('eloChart').getContext('2d');
+
+    // Costruiamo labels (date) unificate
+    const allDatesSet = new Set();
+    for (const player in eloHistory) {
+        eloHistory[player].forEach(p => allDatesSet.add(p.date));
+    }
+    const labels = Array.from(allDatesSet).sort();
+
+    const colors = [
+        'rgba(255, 99, 132, 1)',
+        'rgba(54, 162, 235, 1)',
+        'rgba(255, 206, 86, 1)',
+        'rgba(75, 192, 192, 1)',
+        'rgba(153, 102, 255, 1)'
+    ];
+
+    const datasets = [];
+    let colorIndex = 0;
+
+    for (const player in eloHistory) {
+        const series = eloHistory[player];
+        const map = {};
+        series.forEach(p => { map[p.date] = p.elo; });
+
+        const data = labels.map(d => map[d] !== undefined ? map[d] : null);
+
+        datasets.push({
+            label: player,
+            data: data,
+            borderColor: colors[colorIndex % colors.length],
+            backgroundColor: 'rgba(0,0,0,0)',
+            spanGaps: true,
+            tension: 0.2
+        });
+
+        colorIndex++;
+    }
+
+    new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: datasets
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: { position: 'top' },
+                title: { display: false }
+            },
+            scales: {
+                x: { title: { display: true, text: 'Data' } },
+                y: { title: { display: true, text: 'Elo' } }
+            }
+        }
+    });
+    
+</script>
+</div></body></html>

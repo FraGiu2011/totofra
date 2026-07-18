@@ -1,0 +1,29 @@
+
+[DEBUG] Squadre nel CSV dopo normalizzazione:
+['atalanta', 'bologna', 'cagliari', 'empoli', 'fiorentina', 'frosinone', 'genoa', 'hellas', 'inter', 'juventus', 'lazio', 'lecce', 'milan', 'monza', 'napoli', 'roma', 'salernitana', 'sassuolo', 'torino', 'udinese']
+[FETCHER] Carico partite per competizione: SA
+[FETCHER]   Tentativo 1/3 per SA...
+[FETCHER]   SA: trovate 10 partite.
+[FETCHER] Carico partite per competizione: PL
+[FETCHER]   Tentativo 1/3 per PL...
+[FETCHER]   PL: trovate 10 partite.
+[FETCHER] Carico partite per competizione: CL
+[FETCHER]   Tentativo 1/3 per CL...
+[FETCHER]   CL: trovate 0 partite.
+[FETCHER] Totale partite trovate: 20
+[DEBUG] Match: AS Roma vs AC Pisa 1909 -> roma vs pisa
+Traceback (most recent call last):
+  File "C:\Users\Pickmaster\TotoFra\main.py", line 27, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Pickmaster\TotoFra\main.py", line 20, in main
+    model_preds = model.predict(matches)
+  File "C:\Users\Pickmaster\TotoFra\modello_poisson.py", line 74, in predict
+    pred = self.predict_match(m["home"], m["away"])
+  File "C:\Users\Pickmaster\TotoFra\modello_poisson.py", line 50, in predict_match
+    print(f"[DEBUG] \u03bb_home={lambda_home}, \u03bb_away={lambda_away}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Pickmaster\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u03bb' in position 8: character maps to <undefined>

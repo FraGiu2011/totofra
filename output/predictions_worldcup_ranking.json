@@ -1,0 +1,578 @@
+[
+    {
+        "team_home": "Qatar",
+        "team_away": "Ecuador",
+        "prob_home_win": 0.480921619788535,
+        "prob_draw": 0.2754112135271958,
+        "prob_away_win": 0.24366520689670362,
+        "lambda_home": 0.8925,
+        "lambda_away": 1.375
+    },
+    {
+        "team_home": "England",
+        "team_away": "Iran",
+        "prob_home_win": 0.12450185249923726,
+        "prob_draw": 0.19255863948010551,
+        "prob_away_win": 0.6828702281530538,
+        "lambda_home": 2.1,
+        "lambda_away": 0.765
+    },
+    {
+        "team_home": "Senegal",
+        "team_away": "Netherlands",
+        "prob_home_win": 0.4064152396686803,
+        "prob_draw": 0.2633179612075017,
+        "prob_away_win": 0.33026420427776976,
+        "lambda_home": 1.215,
+        "lambda_away": 1.3775
+    },
+    {
+        "team_home": "USA",
+        "team_away": "Wales",
+        "prob_home_win": 0.27224108805667896,
+        "prob_draw": 0.27170625489900707,
+        "prob_away_win": 0.45605056314459597,
+        "lambda_home": 1.38,
+        "lambda_away": 1.0
+    },
+    {
+        "team_home": "Argentina",
+        "team_away": "Saudi Arabia",
+        "prob_home_win": 0.09471850312799218,
+        "prob_draw": 0.18077153022224451,
+        "prob_away_win": 0.7244329827395641,
+        "lambda_home": 2.1275,
+        "lambda_away": 0.6174999999999999
+    },
+    {
+        "team_home": "Denmark",
+        "team_away": "Tunisia",
+        "prob_home_win": 0.23490157622918184,
+        "prob_draw": 0.27750970211084514,
+        "prob_away_win": 0.4875868937962995,
+        "lambda_home": 1.3650000000000002,
+        "lambda_away": 0.855
+    },
+    {
+        "team_home": "Mexico",
+        "team_away": "Poland",
+        "prob_home_win": 0.30784737278275304,
+        "prob_draw": 0.2809607376657804,
+        "prob_away_win": 0.4111908268831583,
+        "lambda_home": 1.26,
+        "lambda_away": 1.05
+    },
+    {
+        "team_home": "France",
+        "team_away": "Australia",
+        "prob_home_win": 0.13220545927199337,
+        "prob_draw": 0.1953645382281797,
+        "prob_away_win": 0.6723633544669799,
+        "lambda_home": 2.09,
+        "lambda_away": 0.8
+    },
+    {
+        "team_home": "Morocco",
+        "team_away": "Croatia",
+        "prob_home_win": 0.2899370176856811,
+        "prob_draw": 0.3011828786765992,
+        "prob_away_win": 0.40887969246155753,
+        "lambda_home": 1.14,
+        "lambda_away": 0.9099999999999999
+    },
+    {
+        "team_home": "Germany",
+        "team_away": "Japan",
+        "prob_home_win": 0.26982546204332164,
+        "prob_draw": 0.23928993602314583,
+        "prob_away_win": 0.4908720530039966,
+        "lambda_home": 1.7,
+        "lambda_away": 1.2
+    },
+    {
+        "team_home": "Spain",
+        "team_away": "Costa Rica",
+        "prob_home_win": 0.2115419654853769,
+        "prob_draw": 0.25029822857473344,
+        "prob_away_win": 0.5381526211288169,
+        "lambda_home": 1.6,
+        "lambda_away": 0.9
+    },
+    {
+        "team_home": "Belgium",
+        "team_away": "Canada",
+        "prob_home_win": 0.1825846635097013,
+        "prob_draw": 0.21171208395800703,
+        "prob_away_win": 0.6056566430369773,
+        "lambda_home": 2.0,
+        "lambda_away": 1.0
+    },
+    {
+        "team_home": "Switzerland",
+        "team_away": "Cameroon",
+        "prob_home_win": 0.26179953472252865,
+        "prob_draw": 0.2660870138866153,
+        "prob_away_win": 0.4721105106989631,
+        "lambda_home": 1.4375,
+        "lambda_away": 0.9974999999999999
+    },
+    {
+        "team_home": "Uruguay",
+        "team_away": "South Korea",
+        "prob_home_win": 0.24519813820113123,
+        "prob_draw": 0.2559350665566816,
+        "prob_away_win": 0.49886154326377197,
+        "lambda_home": 1.54,
+        "lambda_away": 0.9974999999999999
+    },
+    {
+        "team_home": "Portugal",
+        "team_away": "Ghana",
+        "prob_home_win": 0.16376822195668977,
+        "prob_draw": 0.21061135823307126,
+        "prob_away_win": 0.6255775670568174,
+        "lambda_home": 1.9799999999999998,
+        "lambda_away": 0.9
+    },
+    {
+        "team_home": "Brazil",
+        "team_away": "Serbia",
+        "prob_home_win": 0.16164867071834116,
+        "prob_draw": 0.2031841330631075,
+        "prob_away_win": 0.6351055191411819,
+        "lambda_home": 2.07,
+        "lambda_away": 0.9375
+    },
+    {
+        "team_home": "Wales",
+        "team_away": "Iran",
+        "prob_home_win": 0.2908968737014371,
+        "prob_draw": 0.28402328616414274,
+        "prob_away_win": 0.42507884928242057,
+        "lambda_home": 1.26,
+        "lambda_away": 0.9900000000000001
+    },
+    {
+        "team_home": "Qatar",
+        "team_away": "Senegal",
+        "prob_home_win": 0.5413772724882693,
+        "prob_draw": 0.2544276692749573,
+        "prob_away_win": 0.2041892060938823,
+        "lambda_home": 0.85,
+        "lambda_away": 1.5625
+    },
+    {
+        "team_home": "Netherlands",
+        "team_away": "Ecuador",
+        "prob_home_win": 0.21634261430617724,
+        "prob_draw": 0.2474048945931749,
+        "prob_away_win": 0.5362441677668895,
+        "lambda_home": 1.6275000000000002,
+        "lambda_away": 0.935
+    },
+    {
+        "team_home": "England",
+        "team_away": "USA",
+        "prob_home_win": 0.18823425262347313,
+        "prob_draw": 0.22583772868360202,
+        "prob_away_win": 0.5859049169730347,
+        "lambda_home": 1.8375000000000001,
+        "lambda_away": 0.935
+    },
+    {
+        "team_home": "Tunisia",
+        "team_away": "Australia",
+        "prob_home_win": 0.3248194162185348,
+        "prob_draw": 0.29905444351943156,
+        "prob_away_win": 0.3761257647380351,
+        "lambda_home": 1.1,
+        "lambda_away": 1.0
+    },
+    {
+        "team_home": "Poland",
+        "team_away": "Saudi Arabia",
+        "prob_home_win": 0.27859681923475754,
+        "prob_draw": 0.28541593390697245,
+        "prob_away_win": 0.4359862561289828,
+        "lambda_home": 1.265,
+        "lambda_away": 0.95
+    },
+    {
+        "team_home": "France",
+        "team_away": "Denmark",
+        "prob_home_win": 0.19808041832827347,
+        "prob_draw": 0.22953307955843427,
+        "prob_away_win": 0.5723665808534568,
+        "lambda_home": 1.805,
+        "lambda_away": 0.96
+    },
+    {
+        "team_home": "Argentina",
+        "team_away": "Mexico",
+        "prob_home_win": 0.12053724178927254,
+        "prob_draw": 0.19677763568833065,
+        "prob_away_win": 0.682631512939755,
+        "lambda_home": 2.035,
+        "lambda_away": 0.7150000000000001
+    },
+    {
+        "team_home": "Japan",
+        "team_away": "Costa Rica",
+        "prob_home_win": 0.2723689142150131,
+        "prob_draw": 0.28171897445107213,
+        "prob_away_win": 0.4459108691152365,
+        "lambda_home": 1.3,
+        "lambda_away": 0.95
+    },
+    {
+        "team_home": "Belgium",
+        "team_away": "Morocco",
+        "prob_home_win": 0.3179588594067168,
+        "prob_draw": 0.2765758620756178,
+        "prob_away_win": 0.40546399215253964,
+        "lambda_home": 1.2800000000000002,
+        "lambda_away": 1.1
+    },
+    {
+        "team_home": "Croatia",
+        "team_away": "Canada",
+        "prob_home_win": 0.19129421404748226,
+        "prob_draw": 0.2342137316408612,
+        "prob_away_win": 0.5744767138091682,
+        "lambda_home": 1.75,
+        "lambda_away": 0.9
+    },
+    {
+        "team_home": "Spain",
+        "team_away": "Germany",
+        "prob_home_win": 0.3303249644581684,
+        "prob_draw": 0.2358544051596594,
+        "prob_away_win": 0.43380692662262044,
+        "lambda_home": 1.6800000000000002,
+        "lambda_away": 1.4400000000000002
+    },
+    {
+        "team_home": "Cameroon",
+        "team_away": "Serbia",
+        "prob_home_win": 0.3829920134677879,
+        "prob_draw": 0.25821537074679707,
+        "prob_away_win": 0.35878933134915675,
+        "lambda_home": 1.3224999999999998,
+        "lambda_away": 1.375
+    },
+    {
+        "team_home": "South Korea",
+        "team_away": "Ghana",
+        "prob_home_win": 0.2857835570476291,
+        "prob_draw": 0.2699671051906831,
+        "prob_away_win": 0.4442471817871423,
+        "lambda_home": 1.38,
+        "lambda_away": 1.05
+    },
+    {
+        "team_home": "Brazil",
+        "team_away": "Switzerland",
+        "prob_home_win": 0.17639059369016136,
+        "prob_draw": 0.22814186548171098,
+        "prob_away_win": 0.5954481239553002,
+        "lambda_home": 1.8,
+        "lambda_away": 0.8624999999999999
+    },
+    {
+        "team_home": "Portugal",
+        "team_away": "Uruguay",
+        "prob_home_win": 0.2706601665650322,
+        "prob_draw": 0.24367732393752317,
+        "prob_away_win": 0.48565276016409337,
+        "lambda_home": 1.65,
+        "lambda_away": 1.1700000000000002
+    },
+    {
+        "team_home": "Netherlands",
+        "team_away": "Qatar",
+        "prob_home_win": 0.11538070478603868,
+        "prob_draw": 0.1970540719780397,
+        "prob_away_win": 0.687515781508613,
+        "lambda_home": 2.015,
+        "lambda_away": 0.68
+    },
+    {
+        "team_home": "Ecuador",
+        "team_away": "Senegal",
+        "prob_home_win": 0.3754331892369188,
+        "prob_draw": 0.27317003402600065,
+        "prob_away_win": 0.35139537209326255,
+        "lambda_home": 1.2,
+        "lambda_away": 1.25
+    },
+    {
+        "team_home": "Iran",
+        "team_away": "USA",
+        "prob_home_win": 0.4247382578300336,
+        "prob_draw": 0.28315969714224126,
+        "prob_away_win": 0.29210101517429593,
+        "lambda_home": 0.9974999999999999,
+        "lambda_away": 1.265
+    },
+    {
+        "team_home": "Wales",
+        "team_away": "England",
+        "prob_home_win": 0.5656343098072203,
+        "prob_draw": 0.23383010627288367,
+        "prob_away_win": 0.20051946682385005,
+        "lambda_home": 0.9450000000000001,
+        "lambda_away": 1.7600000000000002
+    },
+    {
+        "team_home": "Australia",
+        "team_away": "Denmark",
+        "prob_home_win": 0.41233315963207434,
+        "prob_draw": 0.28122386701012764,
+        "prob_away_win": 0.3064419180294172,
+        "lambda_home": 1.045,
+        "lambda_away": 1.26
+    },
+    {
+        "team_home": "Tunisia",
+        "team_away": "France",
+        "prob_home_win": 0.5870772982678538,
+        "prob_draw": 0.23330198472291944,
+        "prob_away_win": 0.17960539390976601,
+        "lambda_home": 0.85,
+        "lambda_away": 1.75
+    },
+    {
+        "team_home": "Saudi Arabia",
+        "team_away": "Mexico",
+        "prob_home_win": 0.3858991519485789,
+        "prob_draw": 0.2824120149877275,
+        "prob_away_win": 0.3316879485639209,
+        "lambda_home": 1.1,
+        "lambda_away": 1.2100000000000002
+    },
+    {
+        "team_home": "Poland",
+        "team_away": "Argentina",
+        "prob_home_win": 0.5816696341443359,
+        "prob_draw": 0.23841301539208198,
+        "prob_away_win": 0.17990535862475968,
+        "lambda_home": 0.8250000000000001,
+        "lambda_away": 1.7
+    },
+    {
+        "team_home": "Croatia",
+        "team_away": "Belgium",
+        "prob_home_win": 0.34725752663917336,
+        "prob_draw": 0.2512594556235069,
+        "prob_away_win": 0.4014779435822322,
+        "lambda_home": 1.47,
+        "lambda_away": 1.35
+    },
+    {
+        "team_home": "Canada",
+        "team_away": "Morocco",
+        "prob_home_win": 0.4687109765534298,
+        "prob_draw": 0.28208036393928254,
+        "prob_away_win": 0.24920728345832965,
+        "lambda_home": 0.8800000000000001,
+        "lambda_away": 1.32
+    },
+    {
+        "team_home": "Japan",
+        "team_away": "Spain",
+        "prob_home_win": 0.41447703786215173,
+        "prob_draw": 0.2590501741707811,
+        "prob_away_win": 0.32646941947025065,
+        "lambda_home": 1.2349999999999999,
+        "lambda_away": 1.4249999999999998
+    },
+    {
+        "team_home": "Costa Rica",
+        "team_away": "Germany",
+        "prob_home_win": 0.5013913337377408,
+        "prob_draw": 0.2495482812583535,
+        "prob_away_win": 0.24905306921291512,
+        "lambda_home": 1.05,
+        "lambda_away": 1.6
+    },
+    {
+        "team_home": "South Korea",
+        "team_away": "Portugal",
+        "prob_home_win": 0.498139897721607,
+        "prob_draw": 0.24658216399552427,
+        "prob_away_win": 0.25526942697819227,
+        "lambda_home": 1.0924999999999998,
+        "lambda_away": 1.6275000000000002
+    },
+    {
+        "team_home": "Ghana",
+        "team_away": "Uruguay",
+        "prob_home_win": 0.4629507783998275,
+        "prob_draw": 0.258103396715165,
+        "prob_away_win": 0.27894158001102765,
+        "lambda_home": 1.1,
+        "lambda_away": 1.4949999999999999
+    },
+    {
+        "team_home": "Serbia",
+        "team_away": "Switzerland",
+        "prob_home_win": 0.34876744341127797,
+        "prob_draw": 0.2627473127486767,
+        "prob_away_win": 0.38848268810267705,
+        "lambda_home": 1.35,
+        "lambda_away": 1.265
+    },
+    {
+        "team_home": "Cameroon",
+        "team_away": "Brazil",
+        "prob_home_win": 0.5968772695729798,
+        "prob_draw": 0.22222782963370863,
+        "prob_away_win": 0.18086817876479735,
+        "lambda_home": 0.9199999999999999,
+        "lambda_away": 1.87
+    },
+    {
+        "team_home": "Netherlands",
+        "team_away": "USA",
+        "prob_home_win": 0.21634261430617724,
+        "prob_draw": 0.2474048945931749,
+        "prob_away_win": 0.5362441677668895,
+        "lambda_home": 1.6275000000000002,
+        "lambda_away": 0.935
+    },
+    {
+        "team_home": "Argentina",
+        "team_away": "Australia",
+        "prob_home_win": 0.10786497268163277,
+        "prob_draw": 0.19307018606523502,
+        "prob_away_win": 0.6990112346452056,
+        "lambda_home": 2.035,
+        "lambda_away": 0.65
+    },
+    {
+        "team_home": "France",
+        "team_away": "Poland",
+        "prob_home_win": 0.14138619352479811,
+        "prob_draw": 0.20520829014753017,
+        "prob_away_win": 0.6533599503542161,
+        "lambda_home": 1.9949999999999999,
+        "lambda_away": 0.8
+    },
+    {
+        "team_home": "England",
+        "team_away": "Senegal",
+        "prob_home_win": 0.22950353776802962,
+        "prob_draw": 0.23569278581199474,
+        "prob_away_win": 0.5347881853296856,
+        "lambda_home": 1.75,
+        "lambda_away": 1.0625
+    },
+    {
+        "team_home": "Japan",
+        "team_away": "Croatia",
+        "prob_home_win": 0.3640140341000354,
+        "prob_draw": 0.27197044330609843,
+        "prob_away_win": 0.36401403410003536,
+        "lambda_home": 1.2349999999999999,
+        "lambda_away": 1.2349999999999999
+    },
+    {
+        "team_home": "Brazil",
+        "team_away": "South Korea",
+        "prob_home_win": 0.14030899044222592,
+        "prob_draw": 0.2062531487160688,
+        "prob_away_win": 0.6533950382246987,
+        "lambda_home": 1.9800000000000002,
+        "lambda_away": 0.7875000000000001
+    },
+    {
+        "team_home": "Morocco",
+        "team_away": "Spain",
+        "prob_home_win": 0.33145152326597666,
+        "prob_draw": 0.29172037831871245,
+        "prob_away_win": 0.376827560799457,
+        "lambda_home": 1.14,
+        "lambda_away": 1.0499999999999998
+    },
+    {
+        "team_home": "Portugal",
+        "team_away": "Switzerland",
+        "prob_home_win": 0.23766106050820657,
+        "prob_draw": 0.2449839706037615,
+        "prob_away_win": 0.5173455267904447,
+        "lambda_home": 1.65,
+        "lambda_away": 1.035
+    },
+    {
+        "team_home": "Croatia",
+        "team_away": "Brazil",
+        "prob_home_win": 0.4672863283499676,
+        "prob_draw": 0.2545935206438539,
+        "prob_away_win": 0.27811497828521703,
+        "lambda_home": 1.1199999999999999,
+        "lambda_away": 1.53
+    },
+    {
+        "team_home": "Netherlands",
+        "team_away": "Argentina",
+        "prob_home_win": 0.43569835066944834,
+        "prob_draw": 0.26035350509072414,
+        "prob_away_win": 0.3039447473996091,
+        "lambda_home": 1.1625,
+        "lambda_away": 1.4449999999999998
+    },
+    {
+        "team_home": "Morocco",
+        "team_away": "Portugal",
+        "prob_home_win": 0.34161792871699803,
+        "prob_draw": 0.28921194327787325,
+        "prob_away_win": 0.36916953054060675,
+        "lambda_home": 1.14,
+        "lambda_away": 1.085
+    },
+    {
+        "team_home": "England",
+        "team_away": "France",
+        "prob_home_win": 0.37791463048153917,
+        "prob_draw": 0.24416311685983177,
+        "prob_away_win": 0.3779146304815392,
+        "lambda_home": 1.4875,
+        "lambda_away": 1.4875
+    },
+    {
+        "team_home": "Argentina",
+        "team_away": "Croatia",
+        "prob_home_win": 0.17752090125544584,
+        "prob_draw": 0.23237059488891948,
+        "prob_away_win": 0.5900926205516549,
+        "lambda_home": 1.7575,
+        "lambda_away": 0.8450000000000001
+    },
+    {
+        "team_home": "France",
+        "team_away": "Morocco",
+        "prob_home_win": 0.21796728596921366,
+        "prob_draw": 0.25920273183342024,
+        "prob_away_win": 0.5228253530383666,
+        "lambda_home": 1.52,
+        "lambda_away": 0.8800000000000001
+    },
+    {
+        "team_home": "Croatia",
+        "team_away": "Morocco",
+        "prob_home_win": 0.3178006339678418,
+        "prob_draw": 0.29785382881542777,
+        "prob_away_win": 0.3843451249377208,
+        "lambda_home": 1.1199999999999999,
+        "lambda_away": 0.9900000000000001
+    },
+    {
+        "team_home": "Argentina",
+        "team_away": "France",
+        "prob_home_win": 0.2753922813732864,
+        "prob_draw": 0.25062286486747304,
+        "prob_away_win": 0.47397834133860156,
+        "lambda_home": 1.5725,
+        "lambda_away": 1.1375
+    }
+]

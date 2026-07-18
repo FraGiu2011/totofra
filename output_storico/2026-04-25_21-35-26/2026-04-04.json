@@ -1,0 +1,35 @@
+[
+    {
+        "match": "US Sassuolo Calcio - Cagliari Calcio",
+        "model": {
+            "home": "US Sassuolo Calcio",
+            "away": "Cagliari Calcio",
+            "p_home": 0.3452357495182491,
+            "p_draw": 0.2465969639416065,
+            "p_away": 0.3661581920678875
+        },
+        "tipsters": []
+    },
+    {
+        "match": "Hellas Verona FC - ACF Fiorentina",
+        "model": {
+            "home": "Hellas Verona FC",
+            "away": "ACF Fiorentina",
+            "p_home": 0.3452357495182491,
+            "p_draw": 0.2465969639416065,
+            "p_away": 0.3661581920678875
+        },
+        "tipsters": []
+    },
+    {
+        "match": "SS Lazio - Parma Calcio 1913",
+        "model": {
+            "home": "SS Lazio",
+            "away": "Parma Calcio 1913",
+            "p_home": 0.3452357495182491,
+            "p_draw": 0.2465969639416065,
+            "p_away": 0.3661581920678875
+        },
+        "tipsters": []
+    }
+]

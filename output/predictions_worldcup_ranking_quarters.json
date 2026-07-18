@@ -1,0 +1,38 @@
+[
+    {
+        "team_home": "Spain",
+        "team_away": "Germany",
+        "prob_home_win": 0.1067796603828315,
+        "prob_draw": 0.11375003295057329,
+        "prob_away_win": 0.7741590570924343,
+        "lambda_home": 3.75,
+        "lambda_away": 1.5
+    },
+    {
+        "team_home": "Netherlands",
+        "team_away": "Argentina",
+        "prob_home_win": 0.2910140749935002,
+        "prob_draw": 0.19980325888408956,
+        "prob_away_win": 0.5090328352727745,
+        "lambda_home": 2.2857142857142856,
+        "lambda_away": 1.7142857142857144
+    },
+    {
+        "team_home": "England",
+        "team_away": "France",
+        "prob_home_win": 0.22174255730388356,
+        "prob_draw": 0.16597446316115208,
+        "prob_away_win": 0.6112333761896496,
+        "lambda_home": 2.9714285714285715,
+        "lambda_away": 1.8285714285714285
+    },
+    {
+        "team_home": "Argentina",
+        "team_away": "France",
+        "prob_home_win": 0.43683377046003063,
+        "prob_draw": 0.18192517270066302,
+        "prob_away_win": 0.38061553532854764,
+        "lambda_home": 2.4489795918367343,
+        "lambda_away": 2.6122448979591835
+    }
+]

@@ -1,0 +1,49 @@
+{
+  "matches": [
+    {
+      "home": "Roma",
+      "away": "Atalanta",
+      "prob_1": 0.42,
+      "prob_x": 0.28,
+      "prob_2": 0.30,
+      "metlive_pick": "1",
+      "metlive_security": 65
+    },
+    {
+      "home": "Milan",
+      "away": "Torino",
+      "prob_1": 0.55,
+      "prob_x": 0.25,
+      "prob_2": 0.20,
+      "metlive_pick": "1",
+      "metlive_security": 72
+    },
+    {
+      "home": "PSG",
+      "away": "Rennes",
+      "prob_1": 0.68,
+      "prob_x": 0.20,
+      "prob_2": 0.12,
+      "metlive_pick": "1",
+      "metlive_security": 85
+    },
+    {
+      "home": "Chelsea",
+      "away": "Arsenal",
+      "prob_1": 0.33,
+      "prob_x": 0.29,
+      "prob_2": 0.38,
+      "metlive_pick": "2",
+      "metlive_security": 70
+    },
+    {
+      "home": "Bayern",
+      "away": "Dortmund",
+      "prob_1": 0.52,
+      "prob_x": 0.24,
+      "prob_2": 0.24,
+      "metlive_pick": "1",
+      "metlive_security": 60
+    }
+  ]
+}

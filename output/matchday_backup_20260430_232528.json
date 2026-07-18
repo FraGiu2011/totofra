@@ -1,0 +1,112 @@
+{
+  "matches": [
+    {
+      "home": "Pisa",
+      "away": "Lecce",
+      "prob_1": 0.299,
+      "prob_x": 0.316,
+      "prob_2": 0.385,
+      "metlive_pick": "2",
+      "metlive_security": 62
+    },
+    {
+      "home": "Udinese",
+      "away": "Torino",
+      "prob_1": 0.414,
+      "prob_x": 0.294,
+      "prob_2": 0.292,
+      "metlive_pick": "1",
+      "metlive_security": 58
+    },
+    {
+      "home": "Como",
+      "away": "Napoli",
+      "prob_1": 0.420,
+      "prob_x": 0.289,
+      "prob_2": 0.291,
+      "metlive_pick": "1X",
+      "metlive_security": 55
+    },
+    {
+      "home": "Atalanta",
+      "away": "Genoa",
+      "prob_1": 0.593,
+      "prob_x": 0.233,
+      "prob_2": 0.174,
+      "metlive_pick": "1",
+      "metlive_security": 78
+    },
+    {
+      "home": "Bologna",
+      "away": "Cagliari",
+      "prob_1": 0.524,
+      "prob_x": 0.273,
+      "prob_2": 0.203,
+      "metlive_pick": "1",
+      "metlive_security": 72
+    },
+    {
+      "home": "Sassuolo",
+      "away": "Milan",
+      "prob_1": 0.204,
+      "prob_x": 0.231,
+      "prob_2": 0.565,
+      "metlive_pick": "2",
+      "metlive_security": 75
+    },
+    {
+      "home": "Nantes",
+      "away": "Marsiglia",
+      "prob_1": 0.207,
+      "prob_x": 0.230,
+      "prob_2": 0.563,
+      "metlive_pick": "2",
+      "metlive_security": 70
+    },
+    {
+      "home": "PSG",
+      "away": "Lorient",
+      "prob_1": 0.734,
+      "prob_x": 0.156,
+      "prob_2": 0.110,
+      "metlive_pick": "1",
+      "metlive_security": 90
+    },
+    {
+      "home": "Metz",
+      "away": "Monaco",
+      "prob_1": 0.150,
+      "prob_x": 0.179,
+      "prob_2": 0.671,
+      "metlive_pick": "2",
+      "metlive_security": 82
+    },
+    {
+      "home": "Nizza",
+      "away": "Lens",
+      "prob_1": 0.229,
+      "prob_x": 0.234,
+      "prob_2": 0.537,
+      "metlive_pick": "2",
+      "metlive_security": 68
+    },
+    {
+      "home": "Lille",
+      "away": "Le Havre",
+      "prob_1": 0.679,
+      "prob_x": 0.198,
+      "prob_2": 0.123,
+      "metlive_pick": "1",
+      "metlive_security": 85
+    },
+    {
+      "home": "Auxerre",
+      "away": "Angers",
+      "prob_1": 0.543,
+      "prob_x": 0.264,
+      "prob_2": 0.193,
+      "metlive_pick": "1",
+      "metlive_security": 66
+    }
+  ]
+}

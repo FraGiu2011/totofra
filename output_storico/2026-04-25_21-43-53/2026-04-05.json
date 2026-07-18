@@ -1,0 +1,35 @@
+[
+    {
+        "match": "US Cremonese - Bologna FC 1909",
+        "model": {
+            "home": "US Cremonese",
+            "away": "Bologna FC 1909",
+            "p_home": 0.3452357495182491,
+            "p_draw": 0.2465969639416065,
+            "p_away": 0.3661581920678875
+        },
+        "tipsters": []
+    },
+    {
+        "match": "AC Pisa 1909 - Torino FC",
+        "model": {
+            "home": "AC Pisa 1909",
+            "away": "Torino FC",
+            "p_home": 0.3452357495182491,
+            "p_draw": 0.2465969639416065,
+            "p_away": 0.3661581920678875
+        },
+        "tipsters": []
+    },
+    {
+        "match": "FC Internazionale Milano - AS Roma",
+        "model": {
+            "home": "FC Internazionale Milano",
+            "away": "AS Roma",
+            "p_home": 0.3452357495182491,
+            "p_draw": 0.2465969639416065,
+            "p_away": 0.3661581920678875
+        },
+        "tipsters": []
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "home": "torino",
+        "away": "juventus",
+        "lambda_home": 0.0,
+        "lambda_away": 0.0,
+        "prob_1": 0.0,
+        "prob_x": 1.0,
+        "prob_2": 0.0,
+        "value_1": null,
+        "value_x": null,
+        "value_2": null,
+        "tipsters": {}
+    }
+]

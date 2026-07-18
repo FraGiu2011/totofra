@@ -1,0 +1,290 @@
+[
+    {
+        "group": "Group A",
+        "team": "Netherlands",
+        "pts": 7,
+        "gf": 5,
+        "ga": 1,
+        "gd": 4,
+        "mp": 3
+    },
+    {
+        "group": "Group A",
+        "team": "Senegal",
+        "pts": 6,
+        "gf": 5,
+        "ga": 4,
+        "gd": 1,
+        "mp": 3
+    },
+    {
+        "group": "Group A",
+        "team": "Ecuador",
+        "pts": 4,
+        "gf": 4,
+        "ga": 3,
+        "gd": 1,
+        "mp": 3
+    },
+    {
+        "group": "Group A",
+        "team": "Qatar",
+        "pts": 0,
+        "gf": 1,
+        "ga": 7,
+        "gd": -6,
+        "mp": 3
+    },
+    {
+        "group": "Group B",
+        "team": "England",
+        "pts": 7,
+        "gf": 9,
+        "ga": 2,
+        "gd": 7,
+        "mp": 3
+    },
+    {
+        "group": "Group B",
+        "team": "USA",
+        "pts": 5,
+        "gf": 2,
+        "ga": 1,
+        "gd": 1,
+        "mp": 3
+    },
+    {
+        "group": "Group B",
+        "team": "Iran",
+        "pts": 3,
+        "gf": 4,
+        "ga": 7,
+        "gd": -3,
+        "mp": 3
+    },
+    {
+        "group": "Group B",
+        "team": "Wales",
+        "pts": 1,
+        "gf": 1,
+        "ga": 6,
+        "gd": -5,
+        "mp": 3
+    },
+    {
+        "group": "Group C",
+        "team": "Argentina",
+        "pts": 6,
+        "gf": 5,
+        "ga": 2,
+        "gd": 3,
+        "mp": 3
+    },
+    {
+        "group": "Group C",
+        "team": "Poland",
+        "pts": 4,
+        "gf": 2,
+        "ga": 2,
+        "gd": 0,
+        "mp": 3
+    },
+    {
+        "group": "Group C",
+        "team": "Mexico",
+        "pts": 4,
+        "gf": 2,
+        "ga": 3,
+        "gd": -1,
+        "mp": 3
+    },
+    {
+        "group": "Group C",
+        "team": "Saudi Arabia",
+        "pts": 3,
+        "gf": 3,
+        "ga": 5,
+        "gd": -2,
+        "mp": 3
+    },
+    {
+        "group": "Group D",
+        "team": "France",
+        "pts": 6,
+        "gf": 6,
+        "ga": 3,
+        "gd": 3,
+        "mp": 3
+    },
+    {
+        "group": "Group D",
+        "team": "Australia",
+        "pts": 6,
+        "gf": 3,
+        "ga": 4,
+        "gd": -1,
+        "mp": 3
+    },
+    {
+        "group": "Group D",
+        "team": "Tunisia",
+        "pts": 4,
+        "gf": 1,
+        "ga": 1,
+        "gd": 0,
+        "mp": 3
+    },
+    {
+        "group": "Group D",
+        "team": "Denmark",
+        "pts": 1,
+        "gf": 1,
+        "ga": 3,
+        "gd": -2,
+        "mp": 3
+    },
+    {
+        "group": "Group E",
+        "team": "Japan",
+        "pts": 6,
+        "gf": 4,
+        "ga": 3,
+        "gd": 1,
+        "mp": 3
+    },
+    {
+        "group": "Group E",
+        "team": "Spain",
+        "pts": 4,
+        "gf": 9,
+        "ga": 3,
+        "gd": 6,
+        "mp": 3
+    },
+    {
+        "group": "Group E",
+        "team": "Germany",
+        "pts": 4,
+        "gf": 6,
+        "ga": 5,
+        "gd": 1,
+        "mp": 3
+    },
+    {
+        "group": "Group E",
+        "team": "Costa Rica",
+        "pts": 3,
+        "gf": 3,
+        "ga": 11,
+        "gd": -8,
+        "mp": 3
+    },
+    {
+        "group": "Group F",
+        "team": "Morocco",
+        "pts": 7,
+        "gf": 4,
+        "ga": 1,
+        "gd": 3,
+        "mp": 3
+    },
+    {
+        "group": "Group F",
+        "team": "Croatia",
+        "pts": 5,
+        "gf": 4,
+        "ga": 1,
+        "gd": 3,
+        "mp": 3
+    },
+    {
+        "group": "Group F",
+        "team": "Belgium",
+        "pts": 4,
+        "gf": 1,
+        "ga": 2,
+        "gd": -1,
+        "mp": 3
+    },
+    {
+        "group": "Group F",
+        "team": "Canada",
+        "pts": 0,
+        "gf": 2,
+        "ga": 7,
+        "gd": -5,
+        "mp": 3
+    },
+    {
+        "group": "Group G",
+        "team": "Brazil",
+        "pts": 6,
+        "gf": 3,
+        "ga": 1,
+        "gd": 2,
+        "mp": 3
+    },
+    {
+        "group": "Group G",
+        "team": "Switzerland",
+        "pts": 6,
+        "gf": 4,
+        "ga": 3,
+        "gd": 1,
+        "mp": 3
+    },
+    {
+        "group": "Group G",
+        "team": "Cameroon",
+        "pts": 4,
+        "gf": 4,
+        "ga": 4,
+        "gd": 0,
+        "mp": 3
+    },
+    {
+        "group": "Group G",
+        "team": "Serbia",
+        "pts": 1,
+        "gf": 5,
+        "ga": 8,
+        "gd": -3,
+        "mp": 3
+    },
+    {
+        "group": "Group H",
+        "team": "Portugal",
+        "pts": 6,
+        "gf": 6,
+        "ga": 4,
+        "gd": 2,
+        "mp": 3
+    },
+    {
+        "group": "Group H",
+        "team": "South Korea",
+        "pts": 4,
+        "gf": 4,
+        "ga": 4,
+        "gd": 0,
+        "mp": 3
+    },
+    {
+        "group": "Group H",
+        "team": "Uruguay",
+        "pts": 4,
+        "gf": 2,
+        "ga": 2,
+        "gd": 0,
+        "mp": 3
+    },
+    {
+        "group": "Group H",
+        "team": "Ghana",
+        "pts": 3,
+        "gf": 5,
+        "ga": 7,
+        "gd": -2,
+        "mp": 3
+    }
+]

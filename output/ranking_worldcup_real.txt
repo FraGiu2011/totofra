@@ -1,0 +1,162 @@
+=== RANKING MONDIALE (REALE – API-FOOTBALL) ===
+
+1) France
+   Punti: 16
+   Partite: 7
+   GF: 16  GA: 8  GD: 8
+
+2) Argentina
+   Punti: 14
+   Partite: 7
+   GF: 15  GA: 8  GD: 7
+
+3) Netherlands
+   Punti: 11
+   Partite: 5
+   GF: 10  GA: 4  GD: 6
+
+4) Morocco
+   Punti: 11
+   Partite: 7
+   GF: 6  GA: 5  GD: 1
+
+5) England
+   Punti: 10
+   Partite: 5
+   GF: 13  GA: 4  GD: 9
+
+6) Brazil
+   Punti: 10
+   Partite: 5
+   GF: 8  GA: 3  GD: 5
+
+7) Croatia
+   Punti: 10
+   Partite: 7
+   GF: 8  GA: 7  GD: 1
+
+8) Portugal
+   Punti: 9
+   Partite: 5
+   GF: 12  GA: 6  GD: 6
+
+9) Japan
+   Punti: 7
+   Partite: 4
+   GF: 5  GA: 4  GD: 1
+
+10) Senegal
+   Punti: 6
+   Partite: 4
+   GF: 5  GA: 7  GD: -2
+
+11) Australia
+   Punti: 6
+   Partite: 4
+   GF: 4  GA: 6  GD: -2
+
+12) Switzerland
+   Punti: 6
+   Partite: 4
+   GF: 5  GA: 9  GD: -4
+
+13) Spain
+   Punti: 5
+   Partite: 4
+   GF: 9  GA: 3  GD: 6
+
+14) USA
+   Punti: 5
+   Partite: 4
+   GF: 3  GA: 4  GD: -1
+
+15) Germany
+   Punti: 4
+   Partite: 3
+   GF: 6  GA: 5  GD: 1
+
+16) Ecuador
+   Punti: 4
+   Partite: 3
+   GF: 4  GA: 3  GD: 1
+
+17) Cameroon
+   Punti: 4
+   Partite: 3
+   GF: 4  GA: 4  GD: 0
+
+18) Uruguay
+   Punti: 4
+   Partite: 3
+   GF: 2  GA: 2  GD: 0
+
+19) Tunisia
+   Punti: 4
+   Partite: 3
+   GF: 1  GA: 1  GD: 0
+
+20) Mexico
+   Punti: 4
+   Partite: 3
+   GF: 2  GA: 3  GD: -1
+
+21) Belgium
+   Punti: 4
+   Partite: 3
+   GF: 1  GA: 2  GD: -1
+
+22) Poland
+   Punti: 4
+   Partite: 4
+   GF: 3  GA: 5  GD: -2
+
+23) South Korea
+   Punti: 4
+   Partite: 4
+   GF: 5  GA: 8  GD: -3
+
+24) Ghana
+   Punti: 3
+   Partite: 3
+   GF: 5  GA: 7  GD: -2
+
+25) Saudi Arabia
+   Punti: 3
+   Partite: 3
+   GF: 3  GA: 5  GD: -2
+
+26) Iran
+   Punti: 3
+   Partite: 3
+   GF: 4  GA: 7  GD: -3
+
+27) Costa Rica
+   Punti: 3
+   Partite: 3
+   GF: 3  GA: 11  GD: -8
+
+28) Denmark
+   Punti: 1
+   Partite: 3
+   GF: 1  GA: 3  GD: -2
+
+29) Serbia
+   Punti: 1
+   Partite: 3
+   GF: 5  GA: 8  GD: -3
+
+30) Wales
+   Punti: 1
+   Partite: 3
+   GF: 1  GA: 6  GD: -5
+
+31) Canada
+   Punti: 0
+   Partite: 3
+   GF: 2  GA: 7  GD: -5
+
+32) Qatar
+   Punti: 0
+   Partite: 3
+   GF: 1  GA: 7  GD: -6
+
