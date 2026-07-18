@@ -1,0 +1,2 @@
+HomeTeam,AwayTeam,lambda_home,lambda_away,tipster_prediction,agreement
+A,B,1.2,0.8,Over 1.5,True

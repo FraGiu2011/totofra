@@ -1,0 +1,9 @@
+dataset:
+  path: "data/raw/serie_a.csv"
+
+model:
+  type: poisson
+  home_advantage: true
+
+scheduler:
+  run_time: "23:15"

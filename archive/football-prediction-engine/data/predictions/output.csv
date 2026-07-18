@@ -1,0 +1,3 @@
+HomeTeam,AwayTeam,lambda_home,lambda_away,tipster_prediction,model_prediction,agreement
+Juventus,Inter,1.0,4.0,Over 1.5,5.0,True
+Milan,Roma,9.0,1.0,Over 1.5,10.0,True

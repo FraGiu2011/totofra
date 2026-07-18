@@ -1,0 +1,8 @@
+#!/data/data/com.termux/files/usr/bin/sh
+
+am start -n ru.iiec.pydroid3/ru.iiec.pydroid3.MainActivity
+
+sleep 2
+
+input text "python3 /storage/emulated/0/Android/media/com.github.catfriend1.syncthingandroid/_storage_emulated_0_totofra/main.py"
+input keyevent 66

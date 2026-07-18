@@ -1,0 +1,71 @@
+# -----------------------------------------
+# POWERHELL 7 - FRA STYLE
+# -----------------------------------------
+
+# --- AUTOCOMPLETAMENTO MIGLIORATO ---
+Import-Module PSReadLine
+Set-PSReadLineOption -PredictionSource History
+Set-PSReadLineOption -EditMode Windows
+Set-PSReadLineOption -HistorySearchCursorMovesToEnd
+Set-PSReadLineOption -Colors @{
+    "Command" = "Cyan"
+    "Parameter" = "Yellow"
+    "String" = "Green"
+}
+
+# --- ALIAS UTILI E SENZA CONFLITTI ---
+Set-Alias ll Get-ChildItem
+Set-Alias la "Get-ChildItem -Force"
+Set-Alias gpr Get-Process
+Set-Alias gsr Get-Service
+Set-Alias np notepad
+Set-Alias cls Clear-Host
+
+# --- PROMPT PERSONALIZZATO FRA-STYLE ---
+function Prompt {
+    $path = Split-Path -Leaf (Get-Location)
+    $time = (Get-Date).ToString("HH:mm")
+    "[$time] PS7 [$path] > "
+}
+
+# --- FUNZIONI PERSONALIZZATE FRA-STYLE ---
+
+# Apri una cartella velocemente
+function go {
+    param([string]$path)
+    Set-Location $path
+}
+
+# Cerca file in modo intelligente
+function findf {
+    param([string]$name)
+    Get-ChildItem -Recurse -ErrorAction SilentlyContinue | Where-Object { $_.Name -like "*$name*" }
+}
+
+# Monitor CPU e RAM
+function sysinfo {
+    Write-Host "CPU:" -ForegroundColor Cyan
+    Get-CimInstance Win32_Processor | Select-Object LoadPercentage
+
+    Write-Host "`nRAM:" -ForegroundColor Cyan
+    Get-CimInstance Win32_OperatingSystem | Select-Object FreePhysicalMemory,TotalVisibleMemorySize
+}
+
+# Porte in ascolto
+function ports {
+    Get-NetTCPConnection | Where-Object { $_.State -eq "Listen" } | Select-Object LocalPort,OwningProcess
+}
+
+# Kill rapido di un processo
+function killp {
+    param([string]$name)
+    Get-Process -Name $name -ErrorAction SilentlyContinue | Stop-Process -Force
+}
+
+# --- ICONE COLORATE (SE INSTALLATE) ---
+if (Get-Module -ListAvailable Terminal-Icons) {
+    Import-Module Terminal-Icons
+}
+
+# --- MESSAGGIO DI BENVENUTO ---
+Write-Host "PowerShell 7 pronto all'azione, Fra!" -ForegroundColor Green
